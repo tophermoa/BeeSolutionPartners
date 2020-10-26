@@ -1,0 +1,22 @@
+[
+  {
+    "country": "Olahraga",
+    "olahraga": 9151,
+    "hot dogColor": "hsl(33, 70%, 50%)"
+  },
+  {
+    "country": "Tidur",
+    "tidur": 14904,
+    "burgerColor": "hsl(352, 70%, 50%)"
+  },
+  {
+    "country": "Makan",
+    "makan": 2827,
+    "sandwichColor": "hsl(269, 70%, 50%)"
+  },
+  {
+    "country": "Aktifitas Lain",
+    "lain": 8840,
+    "kebabColor": "hsl(152, 70%, 50%)"
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+      "id": "tidur",
+      "label": "tidur",
+      "value": 1692,
+      "color": "hsl(340, 70%, 50%)"
+    },
+    {
+      "id": "makan",
+      "label": "makan",
+      "value": 27,
+      "color": "hsl(278, 70%, 50%)"
+    },
+    {
+      "id": "olahraga",
+      "label": "olahraga",
+      "value": 351,
+      "color": "hsl(272, 70%, 50%)"
+    },
+    {
+      "id": "aktifitas lain",
+      "label": "aktifitas lain",
+      "value": 1540,
+      "color": "hsl(215, 70%, 50%)"
+    }
+  ]
